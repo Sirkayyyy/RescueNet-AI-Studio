@@ -1,0 +1,6 @@
+{
+  "name": "RescueNet — AI Emergency Response & Safety",
+  "description": "Real-time AI-powered emergency response and safety platform featuring SOS dispatch, live responder GPS tracking, threat broadcast, and intelligent triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
